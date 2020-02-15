@@ -14,3 +14,4 @@ question 4:
 question 4 consists of a program that will verify if the URL input by the user is valid and secure. the program will prompt the user for a URL address that will later be verified.the URL address must start with http://. the output will be true of false. true for a secure and valid URL and false for a non secure and non valid URL. 
 
 question 5:
+question 5 will consist of a program that will generate a random number between 0 and 100, and make several mathematical operations on the number. the operatons are: power of 2, power of 3, square root, natural logarithm, base 10 logarithm. the output of the program will be the solved mathematical operations. 
