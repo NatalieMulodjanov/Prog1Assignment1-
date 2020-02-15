@@ -1,5 +1,6 @@
 # Prog1Assignment1-
 practice assignment 1 programming 1 
+
 question 1:
 question 1 consists of a program that will calculate your gas cost for a road trip based on the gas price, km to be travelled and gas efficiency (km/1L). you will have to input the km to be travelled and then the gas efficiency of your car. the output will be the total cost of the gas for your road trip. 
 
